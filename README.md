@@ -1,2 +1,2 @@
 # Pong_Game
-Turtle library used and compiled in python 3 framework. 
+Turtle library used and compiled in python 3 . 
